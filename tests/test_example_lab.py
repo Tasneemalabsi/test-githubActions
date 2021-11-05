@@ -7,6 +7,6 @@ def test_version():
 
 def test_tasneem():
     expected = 11
-    actual = tasneem(5,7)    
+    actual = tasneem(5,6)    
     assert actual == expected
 
